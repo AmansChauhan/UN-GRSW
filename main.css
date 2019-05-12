@@ -75,6 +75,9 @@ p{
     margin-left: 1%;
     color: white;
 }
+.citiess:hover{
+background-color:#1c4b82;
+}
 
 @media (max-width:1028px){
     .container-fluid{
