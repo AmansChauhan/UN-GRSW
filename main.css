@@ -25,10 +25,12 @@ body{
 .dropbtn {
 /*  background-color: #3498DB;*/
 /*  color: white;*/
-  padding: 16px;
+/*   padding: 16px;
   font-size: 16px;
   border: none;
-  cursor: pointer;
+  cursor: pointer; */
+     width: 10px;
+    height: 10px;
 }
 
 /* Dropdown button on hover & focus */
@@ -128,10 +130,10 @@ p{
         width: auto;
         text-align: center;
         padding: inherit;
-    }
+    }   
     .test-image{
         width: 100%;
-        
+        margin: 0;
     }
 }
 
